@@ -1,0 +1,14 @@
+[Sun Aug 01 01:33:55.241893 2021] [core:warn] [pid 25] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 01 01:33:55.246088 2021] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun Aug 01 01:33:55.246144 2021] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Aug 01 10:02:53.431783 2021] [core:warn] [pid 25] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 01 10:02:53.439895 2021] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun Aug 01 10:02:53.439943 2021] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Aug 01 10:07:44.489838 2021] [core:warn] [pid 25] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 01 10:07:44.492821 2021] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun Aug 01 10:07:44.492848 2021] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Aug 01 20:20:02.747338 2021] [php7:error] [pid 31] [client 155.94.184.114:55748] PHP Parse error:  syntax error, unexpected 'phpinfo' (T_STRING) in /var/www/html/info.php on line 3
+[Sun Aug 01 22:34:00.652570 2021] [core:warn] [pid 25] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Aug 01 22:34:00.750935 2021] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Sun Aug 01 22:34:00.750992 2021] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Aug 02 00:13:05.319626 2021] [php7:error] [pid 30] [client 155.94.184.114:57384] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /var/www/html/info.php on line 2
