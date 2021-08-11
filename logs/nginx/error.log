@@ -1,0 +1,4 @@
+2021/08/12 02:30:38 [error] 21#21: *1 directory index of "/var/www/html/" is forbidden, client: 155.94.184.114, server: _, request: "GET / HTTP/1.0", host: "myserver"
+2021/08/12 02:30:43 [error] 21#21: *2 directory index of "/var/www/html/" is forbidden, client: 155.94.184.114, server: _, request: "GET / HTTP/1.0", host: "myserver"
+2021/08/12 02:30:52 [error] 21#21: *3 directory index of "/var/www/html/" is forbidden, client: 114.244.74.238, server: _, request: "GET / HTTP/1.1", host: "155.94.184.114:8082"
+2021/08/12 02:31:03 [error] 21#21: *3 FastCGI sent in stderr: "Primary script unknown" while reading response header from upstream, client: 114.244.74.238, server: _, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://unix:/var/run/php/php7.4-fpm.sock:", host: "155.94.184.114:8082"

@@ -1,9 +1,0 @@
-[Sun Aug 01 10:02:53.591495 2021] [core:warn] [pid 25] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
-[Sun Aug 01 10:02:53.599851 2021] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
-[Sun Aug 01 10:02:53.599883 2021] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2'
-[Sun Aug 01 10:07:43.605166 2021] [core:warn] [pid 25] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
-[Sun Aug 01 10:07:43.616252 2021] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
-[Sun Aug 01 10:07:43.616281 2021] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2'
-[Sun Aug 01 22:34:00.720502 2021] [core:warn] [pid 25] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
-[Sun Aug 01 22:34:00.727955 2021] [mpm_prefork:notice] [pid 25] AH00163: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
-[Sun Aug 01 22:34:00.728004 2021] [core:notice] [pid 25] AH00094: Command line: '/usr/sbin/apache2'
